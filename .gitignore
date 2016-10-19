@@ -1,0 +1,10 @@
+# OS generated files #
+.DS_Store
+
+# eclipse files #
+.project
+.classpath
+.settings
+
+# compiled stuff #
+target/*
