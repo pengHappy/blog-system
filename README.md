@@ -1,4 +1,4 @@
-# blog-system
+# personal blog platform
 a personal blog platform that has following user functions: <br>
 sign in (administrator/user), <br>
 sign up, <br>
